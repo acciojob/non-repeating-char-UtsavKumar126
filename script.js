@@ -1,7 +1,7 @@
 //your JS code here. If required.
 function Main() {
 	let str = prompt("Enter a string"); 
-	alert(findNon(str));
+	//alert(findNon(str));
 }
 function findNon(str) {
 	let obj={};
